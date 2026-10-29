@@ -1,7 +1,0 @@
-{
-  "title": "DeRez5",
-  "children": [
-    {"title":"Overview","lines":["Airwindows DeRez5","Frequency-crushing / lo-fi effect.","Reduces sample movement and can","reshape transitions into square edges."]},
-    {"title":"Controls","lines":["Knob 1: Derez"," Lower = stronger sample-rate /"," frequency crushing.","","Knob 2: Trim"," Adds irregularity to the derez rate.","","Knob 3: Square"," 0 = point-to-point; 1 = square hold.","","Knob 4: Bright"," Smooths corners with Bezier curves.","","Knob 5: Bassis"," Low-frequency shaping / subtraction.","","Knob 6: Output"," Output level (0-100%)."]}
-  ]
-}
